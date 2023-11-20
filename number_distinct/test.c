@@ -37,24 +37,24 @@
 //	printf("%d\n", total);
 //	return 0;
 //}
-int main()
-{
-	int a = 0;
-	int b = 0;
-	int c = 0;
-	scanf("%d%d%d", &a, &b, &c);
-	if (a > b)
-	{
-		if (c > a)
-		{
-			printf("%d\n", c);
-		}
-		else{
-			printf("%d\n", a);
-		}
-	}
-	else{
-		printf("%d\n", b);
-	}
-	return 0;
-}
+//int main()
+//{
+//	int a = 0;
+//	int b = 0;
+//	int c = 0;
+//	scanf("%d%d%d", &a, &b, &c);
+//	if (a > b)
+//	{
+//		if (c > a)
+//		{
+//			printf("%d\n", c);
+//		}
+//		else{
+//			printf("%d\n", a);
+//		}
+//	}
+//	else{
+//		printf("%d\n", b);
+//	}
+//	return 0;
+//}
